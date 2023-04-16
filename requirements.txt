@@ -2,3 +2,4 @@ sklearn
 pandas
 pymongo
 streamlit
+scikit-learn
