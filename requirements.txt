@@ -1,0 +1,5 @@
+sklearn
+pandas
+pickle
+pymongo
+streamlit
